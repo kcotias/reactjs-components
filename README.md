@@ -1,3 +1,12 @@
+## ReactJs Components
+Just a simple example of how components and basic styling works in reactjs!
+
+To fully follow the step by step to achieve the final result just check my commits since the beginning, i'll try to commit in an very detailed and organized way! 
+
+This is the first time im trying to do something like this, so hope you all enjoy, hope it helps!
+
+## Project Config
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
