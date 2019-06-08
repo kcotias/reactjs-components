@@ -9,5 +9,5 @@ This is the first time im trying to do something like this, so hope you all enjo
 
 ### How to run?
 
-run npm install, them npm start on terminal.
+run `npm install`, them `npm start` on terminal.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
